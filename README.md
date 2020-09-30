@@ -1,4 +1,4 @@
-# Welcome to the Javascript HTML CSS jQery starter app
+# Welcome to the Javascript HTML CSS jQery starter CRUD app
 
 View this app live in my Heroku account
 
